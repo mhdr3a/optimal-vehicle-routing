@@ -1,0 +1,11 @@
+Place_index,Longitude,Latitude,Place_name,Neighbors_indice,Neighbors_weight
+0,51.4460563,35.7587788,Mofid Children's Hospital,"9,2,1","41,28,24"
+1,51.4387524,35.7461057,Behesht Madaran Park,"6,5","100,192"
+2,51.4204533,35.754451,Tabiat Bridge,"1","22"
+3,51.3964634,35.7668485,Brothers Kitchen,"4,8,7","30,26,57"
+4,51.4101107,35.7780529,Mellat Park,"3,8","35,72"
+5,51.4095662,35.7031972,Amirkabir University of Technology,"0","251"
+6,51.4021701,35.724357,Meykhosh Pizza,"8","48"
+7,51.3883588,35.7242279,"University of Tehran, College of Engineering","6,5","18,106"
+8,51.4115201,35.7487337,Dey General Hospital,"2,6","19,64"
+9,51.4359219,35.7763283,Farhang Cinema,"0,4","13,60"
